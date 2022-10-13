@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CRUD data table using React + TypeScript + Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
